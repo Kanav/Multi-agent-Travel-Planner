@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter notebooks
+.ipynb_checkpoints
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# LangChain / AI / Multi-Agent specific
+cache/
+outputs/
+checkpoints/
+models/
+data/
+tmp/
+artifacts/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# Testing
+.pytest_cache/
+coverage/
+.coverage
+htmlcov/
+
+# Environment variables and secrets
+.env.local
+.envrc
+.env.*.local
+secrets.json
+config.json
+
+# Miscellaneous
+*.bak
+*.swp
+*.swo
+*.tmp

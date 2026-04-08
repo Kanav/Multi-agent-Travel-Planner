@@ -1,0 +1,8 @@
+langchain
+langgraph
+langchain-openai
+deepagents
+tavily-python
+langchain-tavily
+google-search-results
+langchain-community
